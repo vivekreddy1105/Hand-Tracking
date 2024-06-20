@@ -27,4 +27,4 @@ Developed an innovative system for controlling the mouse cursor using hand gestu
 - Successfully demonstrated the application of computer vision in Human-Computer Interaction (HCI).
 - Enhanced the user experience by providing an alternative to traditional mouse usage, potentially benefiting users with limited mobility.
 
-**Demo Video/Link:** [Include a link to a demo video or GitHub repository if available]
+**Demo Video/Link:** https://drive.google.com/drive/folders/1zumARjcWLAPn5sazUxWRw0KuAQYCt6FM?usp=sharing
